@@ -1,0 +1,3 @@
+-Data ot R1 and R2 will be meaningless with LDR and STR INSTRUCTIONS
+-If status register flags are X means that its not being used
+-IN BEQZ R1 added to 0 if the result is zero then branch
